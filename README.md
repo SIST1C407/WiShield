@@ -37,3 +37,6 @@ List all the hardware and software tested for running the project.
 + **Hardware**: AMD Ryzen 7 4700U
 
 + **Software**: Windows 10, MATLAB R2023b
+
+## How to use
+In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly.
