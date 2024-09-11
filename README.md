@@ -13,7 +13,7 @@ WiShield/
 ├── My5300Tools/     			# Customized tools to preprocess CSI data
 │   └── GetNewACSIVarienceIndicator.m	# Calculation of amplitude variance indicator for motion detection
 │   └── ......
-├── spotfi/   	# SpotFi implementation (modified from [2])
+├── spotfi/   	                        # SpotFi implementation (modified from [2])
 ├── Data/				# Collected CSI data and processing results
 │   └── AoAEstimation/		        # Data and results for evaluating obfuscation of AoA estimation
 |       ├── calibration/		# Data for internal phase offset calibration
