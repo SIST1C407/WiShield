@@ -39,4 +39,4 @@ List all the hardware and software tested for running the project.
 + **Software**: Windows 10, MATLAB R2023b
 
 ## How to use
-In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly when the current folder is _WiShield/_ in MATLAB.
+In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly when the current folder is _WiShield/_ in MATLAB. In each ".mlx" file, the first block adds the paths of the dependent libraries.
