@@ -13,7 +13,7 @@ WiShield/
 ├── My5300Tools/     			# Customized tools to preprocess CSI data
 │   └── GetNewACSIVarienceIndicator.m	# Calculation of amplitude variance indicator for motion detection
 │   └── ......
-├── spotfimusicaoaestimation/   	# SpotFi implementation (provided by [2])
+├── spotfi/   	# SpotFi implementation (modified from [2])
 ├── Data/				# Collected CSI data and processing results
 │   └── AoAEstimation/		        # Data and results for evaluating obfuscation of AoA estimation
 |       ├── calibration/		# Data for internal phase offset calibration
@@ -39,4 +39,4 @@ List all the hardware and software tested for running the project.
 + **Software**: Windows 10, MATLAB R2023b
 
 ## How to use
-In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly.
+In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly when the current folder is _WiShield/_ in MATLAB.
