@@ -38,5 +38,13 @@ List all the hardware and software tested for running the project.
 
 + **Software**: Windows 10, MATLAB R2023b
 
++ **Required MATLAB add-ons**: Signal Processing Toolbox,  Wavelet Toolbox, Statistics and Machine Learning Toolbox
+
++ **Optional MATLAB add-ons**  Parallel Computing Toolbox (for parallel calculation of AoA estimation)
+
 ## How to use
-In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run directly when the current folder is _WiShield/_ in MATLAB. In each ".mlx" file, the first block adds the paths of the dependent libraries.
+In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run through the following steps.
+1. Change the current folder to _WiShield/_ in MATLAB.
+2. Open the ".mlx" files in _Figure/_ without changing the current folder, and then, they can be run directly.
+
+In each ".mlx" file, the first block adds the paths of the dependent libraries. They are relative paths, so the current folder in MATLAB should be _WiShield/_ to import the libraries successfully.
