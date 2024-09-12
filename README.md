@@ -40,7 +40,7 @@ List all the hardware and software tested for running the project.
 
 + **Required MATLAB add-ons**: Signal Processing Toolbox,  Wavelet Toolbox, Statistics and Machine Learning Toolbox
 
-+ **Optional MATLAB add-ons**  Parallel Computing Toolbox (for parallel calculation of AoA estimation)
++ **Optional MATLAB add-ons**: Parallel Computing Toolbox (for parallel calculation of AoA estimation)
 
 ## How to use
 In _Figure/_ folder, the files are the live scripts for processing CSI data and generating figures. They can be run through the following steps.
