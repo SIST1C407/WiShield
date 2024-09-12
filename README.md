@@ -4,6 +4,7 @@
 This project encompasses the data and processing codes utilized in the Evaluation section of the paper "_WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in Smart Home_". 
 The data for each test is organized within the "Data/" folder, while the associated processing scripts are put in the "Figure/" folder. 
 Within the "Figure/" folder, each ".mlx" file delineates the methodology for data processing and figure generation.
+Below is the detailed file tree for our project.
 
 ## Project Structure
 A description of the project's directory structure, including key files and directories.
